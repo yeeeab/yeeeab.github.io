@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "yeeeab"
-  avatar           : "/assets/images/Mudkip.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "seaybyb786(at)gmail.com"
+  avatar           : "docs/assets/images/Mudkip.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "seaybyb786@gmail.com"
   location         : #"here"
   email            :
   links:
